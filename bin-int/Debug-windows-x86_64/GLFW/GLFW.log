@@ -1,6 +1,0 @@
-﻿  null_init.c
-  null_joystick.c
-  null_monitor.c
-  null_window.c
-  Generating Code...
-  GLFW.vcxproj -> C:\VIBE_CODE_CENTRAL\C++Projects\GodEngine\GodEngine\vendor\GLFW\bin\Debug-windows-x86_64\GLFW\GLFW.lib
